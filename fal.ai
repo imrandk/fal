@@ -11,7 +11,7 @@ function activateFirstCode() {
     }
 
     // Wait for 5 seconds and then activate the second code snippet
-    setTimeout(activateSecondCode, 7000);
+    setTimeout(activateSecondCode, 10000);
 }
 
 // Function to activate the second code snippet
