@@ -53,7 +53,7 @@ function activateSecondCode() {
     saveImages();
 
     // Wait for 5 seconds and then activate the first code snippet again
-    setTimeout(activateFirstCode, 5000);
+    setTimeout(activateFirstCode, 7000);
 }
 
 // Start by activating the first code snippet
